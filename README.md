@@ -11,3 +11,4 @@ This project contains:
 "# VELIKI" 
 "# Ready-Kass" 
 "# Ready-Kass" 
+"# Cass-ready" 
